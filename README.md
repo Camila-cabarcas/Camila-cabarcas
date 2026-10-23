@@ -39,6 +39,3 @@ Backend de un MVP para el control del flujo de caja personal.
 `Java 21` `Spring Boot` `PostgreSQL` `Arquitectura hexagonal`
 
 
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Camila-cabarcas&show_icons=true&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-cabarcas&layout=compact&hide_border=true)
