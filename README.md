@@ -7,7 +7,7 @@ Estudiante de **Ingeniería de Sistemas en la Universidad de Antioquia**, enfoca
 - 🤖 He integrado LLMs en aplicaciones (RAG) y en laboratorios de la universidad
 - 🌱 Aprendiendo: integración de IA y modelos de Machine Learning
 - 🐍 Asistente a PyCon Colombia 2026
-- 📫 camila.cabarcas@udea.edu.co · www.linkedin.com/in/maria-camila-cabarcas-berrio-22780a364
+- 📫 camila.cabarcas@udea.edu.co · www.linkedin.com/in/camila-cabarcas
 
 ## 🛠️ Tecnologías
 
